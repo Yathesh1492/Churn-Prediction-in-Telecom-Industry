@@ -1,1 +1,1 @@
-# Churn-Prediction-in-Telecom-Industry
+# Churn Prediction in Telecom Industry
